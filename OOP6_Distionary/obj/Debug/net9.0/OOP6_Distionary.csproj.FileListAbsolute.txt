@@ -1,0 +1,14 @@
+C:\KY 5\PRN212\PRN212-SE1848\OOP6_Distionary\obj\Debug\net9.0\OOP6_Distionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\KY 5\PRN212\PRN212-SE1848\OOP6_Distionary\obj\Debug\net9.0\OOP6_Distionary.AssemblyInfoInputs.cache
+C:\KY 5\PRN212\PRN212-SE1848\OOP6_Distionary\obj\Debug\net9.0\OOP6_Distionary.AssemblyInfo.cs
+C:\KY 5\PRN212\PRN212-SE1848\OOP6_Distionary\obj\Debug\net9.0\OOP6_Distionary.csproj.CoreCompileInputs.cache
+C:\KY 5\PRN212\PRN212-SE1848\OOP6_Distionary\bin\Debug\net9.0\OOP6_Distionary.exe
+C:\KY 5\PRN212\PRN212-SE1848\OOP6_Distionary\bin\Debug\net9.0\OOP6_Distionary.deps.json
+C:\KY 5\PRN212\PRN212-SE1848\OOP6_Distionary\bin\Debug\net9.0\OOP6_Distionary.runtimeconfig.json
+C:\KY 5\PRN212\PRN212-SE1848\OOP6_Distionary\bin\Debug\net9.0\OOP6_Distionary.dll
+C:\KY 5\PRN212\PRN212-SE1848\OOP6_Distionary\bin\Debug\net9.0\OOP6_Distionary.pdb
+C:\KY 5\PRN212\PRN212-SE1848\OOP6_Distionary\obj\Debug\net9.0\OOP6_Distionary.dll
+C:\KY 5\PRN212\PRN212-SE1848\OOP6_Distionary\obj\Debug\net9.0\refint\OOP6_Distionary.dll
+C:\KY 5\PRN212\PRN212-SE1848\OOP6_Distionary\obj\Debug\net9.0\OOP6_Distionary.pdb
+C:\KY 5\PRN212\PRN212-SE1848\OOP6_Distionary\obj\Debug\net9.0\OOP6_Distionary.genruntimeconfig.cache
+C:\KY 5\PRN212\PRN212-SE1848\OOP6_Distionary\obj\Debug\net9.0\ref\OOP6_Distionary.dll
