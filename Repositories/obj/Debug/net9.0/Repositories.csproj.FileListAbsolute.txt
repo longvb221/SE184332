@@ -1,0 +1,11 @@
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Repositories\bin\Debug\net9.0\Repositories.deps.json
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Repositories\bin\Debug\net9.0\Repositories.dll
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Repositories\bin\Debug\net9.0\Repositories.pdb
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfoInputs.cache
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfo.cs
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.csproj.CoreCompileInputs.cache
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.dll
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Repositories\obj\Debug\net9.0\refint\Repositories.dll
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Repositories\obj\Debug\net9.0\Repositories.pdb
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Repositories\obj\Debug\net9.0\ref\Repositories.dll

@@ -1,0 +1,11 @@
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Services\bin\Debug\net9.0\Services.deps.json
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Services\bin\Debug\net9.0\Services.dll
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Services\bin\Debug\net9.0\Services.pdb
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Services\obj\Debug\net9.0\Services.dll
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Services\obj\Debug\net9.0\refint\Services.dll
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Services\obj\Debug\net9.0\Services.pdb
+D:\KY 5\PRN212\lab1\ProductManagementDemo\Services\obj\Debug\net9.0\ref\Services.dll
