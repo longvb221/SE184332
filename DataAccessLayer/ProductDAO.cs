@@ -42,6 +42,7 @@ namespace DataAccessLayer
             var listProducts = new List<Product>();
             try
             {
+                // Ensure MyStoreContext is properly referenced
                 using var db = new MyStoreContext();
                 listProducts = db.Products.ToList();
             }
@@ -73,6 +74,28 @@ namespace DataAccessLayer
                     p.CategoryId = product.CategoryId;
                 }
             }
+        }
+        public void DeleteProduct(Product product)
+        {
+            foreach (Product p in listProducts.ToList())
+            {
+                if (p.ProductId == product.ProductId)
+                {
+                    listProducts.Remove(p);
+                }
+            }
+        }
+
+        public Product GetProductById(int id)
+        {
+            foreach (Product p in listProducts.ToList())
+            {
+                if (p.ProductId == id)
+                {
+                    return p;
+                }
+            }
+            return null;
         }
     }
 }
