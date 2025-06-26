@@ -1,0 +1,11 @@
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\BusinessObject\bin\Debug\net8.0\BusinessObject.deps.json
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\BusinessObject\bin\Debug\net8.0\BusinessObject.dll
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\BusinessObject\bin\Debug\net8.0\BusinessObject.pdb
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\BusinessObject\obj\Debug\net8.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfoInputs.cache
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfo.cs
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\BusinessObject\obj\Debug\net8.0\BusinessObject.dll
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll

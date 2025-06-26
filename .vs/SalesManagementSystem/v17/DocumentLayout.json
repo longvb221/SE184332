@@ -1,0 +1,756 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\customerwindow1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\customerwindow1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\view\\reportview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\view\\reportview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\view\\productview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\view\\productview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\view\\orderview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\view\\orderview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\view\\orderhistoryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\view\\orderhistoryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\view\\customerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\view\\customerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\view\\categoryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\view\\categoryview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\dialogs\\profiledialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\dialogs\\profiledialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\dialogs\\productdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\dialogs\\productdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\dialogs\\orderdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\dialogs\\orderdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\dialogs\\customerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\dialogs\\customerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\dialogs\\categorydialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\dialogs\\categorydialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\dialogs\\categorydialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\dialogs\\categorydialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E86B95E-BF51-46F4-80CF-ACED66F641C9}|Reposirories\\Reposirories.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\reposirories\\implement\\oderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E86B95E-BF51-46F4-80CF-ACED66F641C9}|Reposirories\\Reposirories.csproj|solutionrelative:reposirories\\implement\\oderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E86B95E-BF51-46F4-80CF-ACED66F641C9}|Reposirories\\Reposirories.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\reposirories\\implement\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E86B95E-BF51-46F4-80CF-ACED66F641C9}|Reposirories\\Reposirories.csproj|solutionrelative:reposirories\\implement\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E86B95E-BF51-46F4-80CF-ACED66F641C9}|Reposirories\\Reposirories.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\reposirories\\implement\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E86B95E-BF51-46F4-80CF-ACED66F641C9}|Reposirories\\Reposirories.csproj|solutionrelative:reposirories\\implement\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D27511-C5E7-4826-81EB-CECD84E38E86}|DataAccessObject\\DataAccessObject.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\dataaccessobject\\productsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D27511-C5E7-4826-81EB-CECD84E38E86}|DataAccessObject\\DataAccessObject.csproj|solutionrelative:dataaccessobject\\productsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D27511-C5E7-4826-81EB-CECD84E38E86}|DataAccessObject\\DataAccessObject.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\dataaccessobject\\odersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D27511-C5E7-4826-81EB-CECD84E38E86}|DataAccessObject\\DataAccessObject.csproj|solutionrelative:dataaccessobject\\odersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D27511-C5E7-4826-81EB-CECD84E38E86}|DataAccessObject\\DataAccessObject.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\dataaccessobject\\oderdetailsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D27511-C5E7-4826-81EB-CECD84E38E86}|DataAccessObject\\DataAccessObject.csproj|solutionrelative:dataaccessobject\\oderdetailsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D27511-C5E7-4826-81EB-CECD84E38E86}|DataAccessObject\\DataAccessObject.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\dataaccessobject\\employeesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D27511-C5E7-4826-81EB-CECD84E38E86}|DataAccessObject\\DataAccessObject.csproj|solutionrelative:dataaccessobject\\employeesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D27511-C5E7-4826-81EB-CECD84E38E86}|DataAccessObject\\DataAccessObject.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\dataaccessobject\\customersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D27511-C5E7-4826-81EB-CECD84E38E86}|DataAccessObject\\DataAccessObject.csproj|solutionrelative:dataaccessobject\\customersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D27511-C5E7-4826-81EB-CECD84E38E86}|DataAccessObject\\DataAccessObject.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\dataaccessobject\\categoriesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D27511-C5E7-4826-81EB-CECD84E38E86}|DataAccessObject\\DataAccessObject.csproj|solutionrelative:dataaccessobject\\categoriesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79F3DE3-1F8E-4FC4-912A-A977812C3F4B}|BusinessObject\\BusinessObject.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\businessobject\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79F3DE3-1F8E-4FC4-912A-A977812C3F4B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79F3DE3-1F8E-4FC4-912A-A977812C3F4B}|BusinessObject\\BusinessObject.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\businessobject\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79F3DE3-1F8E-4FC4-912A-A977812C3F4B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79F3DE3-1F8E-4FC4-912A-A977812C3F4B}|BusinessObject\\BusinessObject.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\businessobject\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79F3DE3-1F8E-4FC4-912A-A977812C3F4B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79F3DE3-1F8E-4FC4-912A-A977812C3F4B}|BusinessObject\\BusinessObject.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\businessobject\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79F3DE3-1F8E-4FC4-912A-A977812C3F4B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79F3DE3-1F8E-4FC4-912A-A977812C3F4B}|BusinessObject\\BusinessObject.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\businessobject\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79F3DE3-1F8E-4FC4-912A-A977812C3F4B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79F3DE3-1F8E-4FC4-912A-A977812C3F4B}|BusinessObject\\BusinessObject.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\businessobject\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79F3DE3-1F8E-4FC4-912A-A977812C3F4B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\view\\categoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\view\\categoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\view\\customerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\view\\customerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\dialogs\\profiledialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\dialogs\\profiledialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\dialogs\\productdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\dialogs\\productdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\dialogs\\orderdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\dialogs\\orderdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\dialogs\\customerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\dialogs\\customerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\view\\orderview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\view\\orderview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\view\\reportview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\view\\reportview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\customerwindow1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\customerwindow1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\view\\orderhistoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\view\\orderhistoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\view\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\view\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|d:\\ky 5\\prn212\\asm_01\\salesmanagementsystem\\longvubaowpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E817DC6-1D08-40C3-AD1A-96425805B302}|LongVuBaoWPF\\VuBaoLongWPF.csproj|solutionrelative:longvubaowpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderHistoryView.xaml.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\OrderHistoryView.xaml.cs",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\View\\OrderHistoryView.xaml.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\OrderHistoryView.xaml.cs",
+              "RelativeToolTip": "LongVuBaoWPF\\View\\OrderHistoryView.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:17:19.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderView.xaml.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\OrderView.xaml.cs",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\View\\OrderView.xaml.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\OrderView.xaml.cs",
+              "RelativeToolTip": "LongVuBaoWPF\\View\\OrderView.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:35:51.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductView.xaml.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\ProductView.xaml.cs",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\View\\ProductView.xaml.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\ProductView.xaml.cs",
+              "RelativeToolTip": "LongVuBaoWPF\\View\\ProductView.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwBEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:33:41.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportView.xaml.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\ReportView.xaml.cs",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\View\\ReportView.xaml.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\ReportView.xaml.cs",
+              "RelativeToolTip": "LongVuBaoWPF\\View\\ReportView.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:38:08.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\App.xaml.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\App.xaml.cs",
+              "RelativeToolTip": "LongVuBaoWPF\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:03:49.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerWindow1.xaml.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\CustomerWindow1.xaml.cs",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\CustomerWindow1.xaml.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\CustomerWindow1.xaml.cs",
+              "RelativeToolTip": "LongVuBaoWPF\\CustomerWindow1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:41:14.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "LongVuBaoWPF\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:43:43.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LongVuBaoWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:38:29.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerView.xaml.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\CustomerView.xaml.cs",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\View\\CustomerView.xaml.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\CustomerView.xaml.cs",
+              "RelativeToolTip": "LongVuBaoWPF\\View\\CustomerView.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:08:23.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryView.xaml.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\CategoryView.xaml.cs",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\View\\CategoryView.xaml.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\CategoryView.xaml.cs",
+              "RelativeToolTip": "LongVuBaoWPF\\View\\CategoryView.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:05:43.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProfileDialog.xaml.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\Dialogs\\ProfileDialog.xaml.cs",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\Dialogs\\ProfileDialog.xaml.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\Dialogs\\ProfileDialog.xaml.cs",
+              "RelativeToolTip": "LongVuBaoWPF\\Dialogs\\ProfileDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:02:49.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductDialog.xaml.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\Dialogs\\ProductDialog.xaml.cs",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\Dialogs\\ProductDialog.xaml.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\Dialogs\\ProductDialog.xaml.cs",
+              "RelativeToolTip": "LongVuBaoWPF\\Dialogs\\ProductDialog.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:01:01.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderDialog.xaml.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\Dialogs\\OrderDialog.xaml.cs",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\Dialogs\\OrderDialog.xaml.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\Dialogs\\OrderDialog.xaml.cs",
+              "RelativeToolTip": "LongVuBaoWPF\\Dialogs\\OrderDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:58:07.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerDialog.xaml.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\Dialogs\\CustomerDialog.xaml.cs",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\Dialogs\\CustomerDialog.xaml.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\Dialogs\\CustomerDialog.xaml.cs",
+              "RelativeToolTip": "LongVuBaoWPF\\Dialogs\\CustomerDialog.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:54:59.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryDialog.xaml.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\Dialogs\\CategoryDialog.xaml.cs",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\Dialogs\\CategoryDialog.xaml.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\Dialogs\\CategoryDialog.xaml.cs",
+              "RelativeToolTip": "LongVuBaoWPF\\Dialogs\\CategoryDialog.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:50:41.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryDialog.xaml",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\Dialogs\\CategoryDialog.xaml",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\Dialogs\\CategoryDialog.xaml",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\Dialogs\\CategoryDialog.xaml",
+              "RelativeToolTip": "LongVuBaoWPF\\Dialogs\\CategoryDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-25T15:47:23.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OderDetailRepository.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\Reposirories\\Implement\\OderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Reposirories\\Implement\\OderDetailRepository.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\Reposirories\\Implement\\OderDetailRepository.cs",
+              "RelativeToolTip": "Reposirories\\Implement\\OderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:39:39.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\Reposirories\\Implement\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Reposirories\\Implement\\CustomerRepository.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\Reposirories\\Implement\\CustomerRepository.cs",
+              "RelativeToolTip": "Reposirories\\Implement\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:39:39.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OderDetailsDAO.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\DataAccessObject\\OderDetailsDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObject\\OderDetailsDAO.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\DataAccessObject\\OderDetailsDAO.cs",
+              "RelativeToolTip": "DataAccessObject\\OderDetailsDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:10:48.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeesDAO.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\DataAccessObject\\EmployeesDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObject\\EmployeesDAO.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\DataAccessObject\\EmployeesDAO.cs",
+              "RelativeToolTip": "DataAccessObject\\EmployeesDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:10:04.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomersDAO.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\DataAccessObject\\CustomersDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObject\\CustomersDAO.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\DataAccessObject\\CustomersDAO.cs",
+              "RelativeToolTip": "DataAccessObject\\CustomersDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:09:39.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoriesDAO.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\DataAccessObject\\CategoriesDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObject\\CategoriesDAO.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\DataAccessObject\\CategoriesDAO.cs",
+              "RelativeToolTip": "DataAccessObject\\CategoriesDAO.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBQAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:09:46.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\BusinessObject\\Products.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Products.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\BusinessObject\\Products.cs",
+              "RelativeToolTip": "BusinessObject\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:23:10.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\BusinessObject\\Orders.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Orders.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\BusinessObject\\Orders.cs",
+              "RelativeToolTip": "BusinessObject\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:23:09.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\BusinessObject\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\OrderDetails.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\BusinessObject\\OrderDetails.cs",
+              "RelativeToolTip": "BusinessObject\\OrderDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:23:07.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OdersDAO.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\DataAccessObject\\OdersDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObject\\OdersDAO.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\DataAccessObject\\OdersDAO.cs",
+              "RelativeToolTip": "DataAccessObject\\OdersDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBUAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:09:48.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductsDAO.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\DataAccessObject\\ProductsDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObject\\ProductsDAO.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\DataAccessObject\\ProductsDAO.cs",
+              "RelativeToolTip": "DataAccessObject\\ProductsDAO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:09:49.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\Reposirories\\Implement\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Reposirories\\Implement\\CategoryRepository.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\Reposirories\\Implement\\CategoryRepository.cs",
+              "RelativeToolTip": "Reposirories\\Implement\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:51:15.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\BusinessObject\\Employees.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Employees.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\BusinessObject\\Employees.cs",
+              "RelativeToolTip": "BusinessObject\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:23:07.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\BusinessObject\\Customers.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Customers.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\BusinessObject\\Customers.cs",
+              "RelativeToolTip": "BusinessObject\\Customers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:29:11.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\BusinessObject\\Categories.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Categories.cs",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\BusinessObject\\Categories.cs",
+              "RelativeToolTip": "BusinessObject\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:13:35.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryView.xaml",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\CategoryView.xaml",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\View\\CategoryView.xaml",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\CategoryView.xaml",
+              "RelativeToolTip": "LongVuBaoWPF\\View\\CategoryView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-25T16:03:57.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CustomerView.xaml",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\CustomerView.xaml",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\View\\CustomerView.xaml",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\CustomerView.xaml",
+              "RelativeToolTip": "LongVuBaoWPF\\View\\CustomerView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-25T16:06:19.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProfileDialog.xaml",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\Dialogs\\ProfileDialog.xaml",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\Dialogs\\ProfileDialog.xaml",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\Dialogs\\ProfileDialog.xaml",
+              "RelativeToolTip": "LongVuBaoWPF\\Dialogs\\ProfileDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-25T16:01:37.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductDialog.xaml",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\Dialogs\\ProductDialog.xaml",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\Dialogs\\ProductDialog.xaml",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\Dialogs\\ProductDialog.xaml",
+              "RelativeToolTip": "LongVuBaoWPF\\Dialogs\\ProductDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-25T15:59:57.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderDialog.xaml",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\Dialogs\\OrderDialog.xaml",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\Dialogs\\OrderDialog.xaml",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\Dialogs\\OrderDialog.xaml",
+              "RelativeToolTip": "LongVuBaoWPF\\Dialogs\\OrderDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-25T15:55:50.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CustomerDialog.xaml",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\Dialogs\\CustomerDialog.xaml",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\Dialogs\\CustomerDialog.xaml",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\Dialogs\\CustomerDialog.xaml",
+              "RelativeToolTip": "LongVuBaoWPF\\Dialogs\\CustomerDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-25T15:50:37.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderView.xaml",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\OrderView.xaml",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\View\\OrderView.xaml",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\OrderView.xaml",
+              "RelativeToolTip": "LongVuBaoWPF\\View\\OrderView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-25T16:35:18.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CustomerWindow1.xaml",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\CustomerWindow1.xaml",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\CustomerWindow1.xaml",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\CustomerWindow1.xaml",
+              "RelativeToolTip": "LongVuBaoWPF\\CustomerWindow1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-25T16:40:06.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ReportView.xaml",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\ReportView.xaml",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\View\\ReportView.xaml",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\ReportView.xaml",
+              "RelativeToolTip": "LongVuBaoWPF\\View\\ReportView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-25T16:30:55.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OrderHistoryView.xaml",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\OrderHistoryView.xaml",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\View\\OrderHistoryView.xaml",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\OrderHistoryView.xaml",
+              "RelativeToolTip": "LongVuBaoWPF\\View\\OrderHistoryView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-25T16:15:27.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductView.xaml",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\ProductView.xaml",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\View\\ProductView.xaml",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\View\\ProductView.xaml",
+              "RelativeToolTip": "LongVuBaoWPF\\View\\ProductView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-25T16:33:43.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\MainWindow.xaml",
+              "RelativeToolTip": "LongVuBaoWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-25T15:38:29.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "LongVuBaoWPF\\LoginWindow.xaml",
+              "ToolTip": "D:\\KY 5\\PRN212\\ASM_01\\SalesManagementSystem\\LongVuBaoWPF\\LoginWindow.xaml",
+              "RelativeToolTip": "LongVuBaoWPF\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-25T16:42:37.042Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

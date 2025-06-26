@@ -1,0 +1,27 @@
+﻿<Window x:Class="LongVuBaoWPF.CustomerWindow1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LongVuBaoWPF"
+        mc:Ignorable="d"
+        Title="CustomerDashBoard" Height="500" Width="800"  WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Sidebar -->
+        <StackPanel Background="#FFC6DDD9" Grid.Column="0">
+            <TextBlock Text="Welcome, Customer" Foreground="#FF071A0D" FontSize="18"
+                   FontWeight="Bold" Margin="0 20" HorizontalAlignment="Center"/>
+            <Button Content="My Orders" Click="Orders_Click" Margin="10" Background="#FF189B84"/>
+            <Button Content="Edit Profile" Click="Profile_Click" Margin="10" Background="#FF189B84"/>
+            <Button Content="Logout" Click="Logout_Click" Margin="10" Foreground="#FF071A0D" Background="#FF189B84" FontWeight="Bold"/>
+        </StackPanel>
+
+        <!-- Main content -->
+        <ContentControl x:Name="MainContent" Grid.Column="1" Margin="10"/>
+    </Grid>
+</Window>

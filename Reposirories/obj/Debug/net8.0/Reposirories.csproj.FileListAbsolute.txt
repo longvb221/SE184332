@@ -1,0 +1,17 @@
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\Reposirories\bin\Debug\net8.0\Reposirories.deps.json
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\Reposirories\bin\Debug\net8.0\Reposirories.dll
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\Reposirories\bin\Debug\net8.0\Reposirories.pdb
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\Reposirories\bin\Debug\net8.0\BusinessObject.dll
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\Reposirories\bin\Debug\net8.0\DataAccessObject.dll
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\Reposirories\bin\Debug\net8.0\BusinessObject.pdb
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\Reposirories\bin\Debug\net8.0\DataAccessObject.pdb
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\Reposirories\obj\Debug\net8.0\Reposirories.csproj.AssemblyReference.cache
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\Reposirories\obj\Debug\net8.0\Reposirories.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\Reposirories\obj\Debug\net8.0\Reposirories.AssemblyInfoInputs.cache
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\Reposirories\obj\Debug\net8.0\Reposirories.AssemblyInfo.cs
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\Reposirories\obj\Debug\net8.0\Reposirories.csproj.CoreCompileInputs.cache
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\Reposirories\obj\Debug\net8.0\Reposiro.C2D23F48.Up2Date
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\Reposirories\obj\Debug\net8.0\Reposirories.dll
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\Reposirories\obj\Debug\net8.0\refint\Reposirories.dll
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\Reposirories\obj\Debug\net8.0\Reposirories.pdb
+D:\KY 5\PRN212\ASM_01\SalesManagementSystem\Reposirories\obj\Debug\net8.0\ref\Reposirories.dll
